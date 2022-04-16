@@ -1,7 +1,7 @@
 TinyPages
 =========
+One of the first html sites I did in first year of college
 
-its my first website
 
 
-seeing Github after an year
+Copyrights - Navjot Singh Virk (https://navjot.mrvirk.com & https://mrvirk.com)
